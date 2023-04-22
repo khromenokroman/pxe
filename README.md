@@ -8,7 +8,7 @@
 
 - Для запуска выполняем следующее:
 ```
-git clone .git
+git clone https://github.com/khromenokroman/pxe
 cd pxe/
 vagrant up
 ```
