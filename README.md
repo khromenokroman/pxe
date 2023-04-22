@@ -20,9 +20,9 @@ vagrant up
 ![alt text](/screenshots/1.png?raw=true "Screenshot2")
 
 Установка ОС CentOS-8.4:
-![alt text](/screenshots/2.PNG?raw=true "Screenshot2")
+![alt text](/screenshots/2.png?raw=true "Screenshot2")
 
-![alt text](/screenshots/3.PNG?raw=true "Screenshot3")
+![alt text](/screenshots/3.png?raw=true "Screenshot3")
 
 После установки, выключаем машину, меняем в Virtual Box в настроках машины загрузку с Network на Hard Disk и стартуем. Логинимся под root и смотрим версию OC.
-![alt text](/screenshots/4.PNG?raw=true "Screenshot4")
+![alt text](/screenshots/4.png?raw=true "Screenshot4")
